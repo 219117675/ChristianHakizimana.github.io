@@ -1,9 +1,168 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>My CV</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Christian Hakizimana | Portfolio</title>
+
+<style>
+:root {
+    --bg: #0f172a;
+    --text: #ffffff;
+    --card: #020617;
+    --accent: #38bdf8;
+}
+
+.light {
+    --bg: #f8fafc;
+    --text: #0f172a;
+    --card: #ffffff;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    transition: 0.3s;
+}
+
+header {
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    color: var(--accent);
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: var(--accent);
+}
+
+section {
+    padding: 40px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.card {
+    background: var(--card);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.03);
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 15px;
+    background: var(--accent);
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.toggle {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+    background: var(--card);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.fade {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeIn 1s forwards;
+}
+
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+</style>
 </head>
+
 <body>
-    <h1>Welcome to My CV Website</h1>
+
+<div class="toggle" onclick="toggleTheme()">🌙 Toggle</div>
+
+<header class="fade">
+    <h1>Christian Hakizimana</h1>
+    <p>Software Developer | ICT Student</p>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<section id="about" class="fade">
+    <h2>About Me</h2>
+    <div class="card">
+        Passionate Software Development student at CPUT with strong skills in Java,
+        Python, Web Development and Databases. Focused on building real-world applications
+        and growing into a professional developer.
+    </div>
+</section>
+
+<section id="skills" class="fade">
+    <h2>Skills</h2>
+    <div class="card">
+        Java, Python, C#, HTML, CSS, JavaScript, SQL, Git/GitHub
+    </div>
+</section>
+
+<section id="projects" class="fade">
+    <h2>Projects</h2>
+
+    <div class="card">
+        <h3>POS System (Java Desktop App)</h3>
+        <p>Built a Point of Sale system with CRUD operations and database integration.</p>
+    </div>
+
+    <div class="card">
+        <h3>Event Management Website</h3>
+        <p>Developed a dynamic website with login system and admin dashboard.</p>
+    </div>
+
+    <div class="card">
+        <h3>Recruitment Portal (Capstone)</h3>
+        <p>Full-stack job portal with user roles, authentication, and database design.</p>
+    </div>
+
+</section>
+
+<section id="contact" class="fade">
+    <h2>Contact</h2>
+    <div class="card">
+        <p>Email: 219117675@mycput.ac.za</p>
+        <p>Phone: 084 702 3981</p>
+
+        <a class="btn" href="mailto:219117675@mycput.ac.za">Email Me</a>
+        <a class="btn" href="Christian_Hakizimana_CV.pdf" download>Download CV</a>
+    </div>
+</section>
+
+<script>
+function toggleTheme() {
+    document.body.classList.toggle("light");
+}
+</script>
+
 </body>
 </html>
