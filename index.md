@@ -1,12 +1,3 @@
-<table>
-  <tr>
-    <td width="150">
-      <img src="profile.jpg" width="120" style="border-radius:50%;">
-    </td>
-    <td>
-      <h1 style="margin-bottom:5px;">Christian Hakizimana</h1>
-  </tr>
-</table>
 
 # 👋 Christian Hakizimana  
 ### Software Developer | ICT Student  
