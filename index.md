@@ -5,8 +5,6 @@
     </td>
     <td>
       <h1 style="margin-bottom:5px;">Christian Hakizimana</h1>
-     
-    </td>
   </tr>
 </table>
 
