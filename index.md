@@ -1,3 +1,17 @@
+<table>
+  <tr>
+    <td width="150">
+      <img src="profile.jpg" width="120" style="border-radius:50%;">
+    </td>
+    <td>
+      <h1 style="margin-bottom:5px;">Christian Hakizimana</h1>
+      <p style="margin:0;"><strong>Software Developer | ICT Student</strong></p>
+      <p style="margin:0;">📍 Cape Town, South Africa</p>
+      <p style="margin:0;">📞 084 702 3981</p>
+      <p style="margin:0;">📧 219117675@mycput.ac.za</p>
+    </td>
+  </tr>
+</table>
 
 # 👋 Christian Hakizimana  
 ### Software Developer | ICT Student  
