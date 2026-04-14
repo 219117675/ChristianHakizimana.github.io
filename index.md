@@ -94,21 +94,7 @@ Gold Restaurant
 
 ---
 
-## 🧠 Interview Questions & Answers  
 
-### Tell me about yourself  
-I am a third-year ICT student specializing in Software Development with experience in Java, Python, and web technologies...
-
-### What are your strengths?  
-My strengths include problem-solving, teamwork, and adaptability...
-
-### What is your greatest weakness?  
-I sometimes focus too much on details, but I am learning to balance efficiency with quality...
-
-### What are your career goals?  
-To become a professional software developer and contribute to innovative solutions...
-
----
 
 ## 📂 GitHub Portfolio  
 
