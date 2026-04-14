@@ -18,8 +18,8 @@
 ---
 
 ## 🎯 Career Objective  
-Motivated and detail-oriented 3rd-year ICT Diploma student at CPUT specializing in Software Development.  
-Seeking Work-Integrated Learning (WIL) placement to apply my technical skills and grow in a professional ICT environment.  
+> Motivated and detail-oriented 3rd-year ICT Diploma student at CPUT specializing in Software Development.  
+> Seeking Work-Integrated Learning (WIL) placement to apply my technical skills and grow in a professional ICT environment.  
 
 ---
 
