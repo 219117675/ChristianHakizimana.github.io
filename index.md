@@ -110,3 +110,44 @@ Gold Restaurant
 ## 📄 Download CV  
 
 👉 [Download My CV](Christian_Hakizimana_CV.pdf)
+
+
+## 🧠 Reflection on Project Presentation III
+
+### 📄 Reflection on the Use of Markdown (.md)
+
+This project was my first time working with Markdown, and at the beginning I honestly found it quite challenging. I was more comfortable using HTML and CSS, so adjusting to a simpler format with limited styling felt restrictive at first.  
+
+However, as I continued working with it, I started to understand its purpose and strengths. Markdown forced me to focus more on how I structure and present my content rather than relying on design. I also learned how to combine Markdown with basic HTML to improve the layout, especially when working with images and formatting my CV.  
+
+Looking back, this experience helped me become more adaptable and showed me that even simple tools can be very powerful when used correctly. It also improved how I present technical information in a clear and organised way.
+
+---
+
+### 🎥 Reflection on the Mock Interview Video
+
+The mock interview was one of the most challenging parts of this project, but also one of the most valuable. Speaking in front of a camera was not something I was used to, and at first it felt uncomfortable trying to sound natural and confident at the same time.  
+
+Preparing my answers made me really think about my skills, my strengths, and what I want to achieve in my career. Using the STAR method helped me structure my answers better and avoid speaking randomly.  
+
+After practicing and recording, I became more aware of how I speak, my pace, and how I present myself. This experience definitely helped me build confidence and gave me a better idea of what to expect in a real interview situation.
+
+---
+
+### 🌐 Reflection on Creating a GitHub Page
+
+Creating my GitHub Page was a new experience for me and one that I found very interesting. Before this project, I mainly saw GitHub as a place to store code, but now I understand how it can be used to present yourself professionally.  
+
+I learned how to organise my files, manage my repository, and publish my work so that it can be accessed online. Seeing my own portfolio live on GitHub Pages was a great moment because it made the project feel real and practical.  
+
+It also made me realise how important it is for developers to have an online presence where they can showcase their skills and projects.
+
+---
+
+### 🚀 Overall Reflection and Personal Growth
+
+Overall, this project pushed me out of my comfort zone and helped me grow in different ways. I had to learn new tools, improve how I communicate, and think more professionally about how I present myself.  
+
+I feel more confident now in both my technical abilities and my communication skills. The project also helped me understand the importance of continuous learning and being able to adapt to new challenges.  
+
+In general, this experience has prepared me better for the ICT industry, especially in terms of interviews, presenting my work, and building a professional profile online.
