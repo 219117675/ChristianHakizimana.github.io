@@ -116,38 +116,45 @@ Gold Restaurant
 
 ### 📄 Reflection on the Use of Markdown (.md)
 
-This project was my first time working with Markdown, and at the beginning I honestly found it quite challenging. I was more comfortable using HTML and CSS, so adjusting to a simpler format with limited styling felt restrictive at first.  
+This project was my first time working with Markdown, and at the beginning I found it quite challenging because I was more familiar with HTML and CSS. I was used to having more control over design, so working with a simpler format felt limiting at first.  
 
-However, as I continued working with it, I started to understand its purpose and strengths. Markdown forced me to focus more on how I structure and present my content rather than relying on design. I also learned how to combine Markdown with basic HTML to improve the layout, especially when working with images and formatting my CV.  
+However, as I continued, I started to understand the theory behind Markdown, which focuses on simplicity, readability, and clear structure. This helped me shift my thinking from focusing on design to focusing on how information is organised and presented.  
 
-Looking back, this experience helped me become more adaptable and showed me that even simple tools can be very powerful when used correctly. It also improved how I present technical information in a clear and organised way.
+I also applied my previous experience with HTML by integrating it into Markdown to improve layout where needed. This showed me how I can adapt my existing knowledge to new tools.  
+
+Overall, this experience improved my self-awareness as a developer and helped me realise that learning new technologies requires patience, adaptability, and a willingness to grow.
 
 ---
 
 ### 🎥 Reflection on the Mock Interview Video
 
-The mock interview was one of the most challenging parts of this project, but also one of the most valuable. Speaking in front of a camera was not something I was used to, and at first it felt uncomfortable trying to sound natural and confident at the same time.  
+The mock interview was a new experience for me and pushed me out of my comfort zone. Speaking on camera made me more aware of how I present myself, including my confidence, tone, and clarity.  
 
-Preparing my answers made me really think about my skills, my strengths, and what I want to achieve in my career. Using the STAR method helped me structure my answers better and avoid speaking randomly.  
+Preparing for the interview required me to reflect on my own abilities, strengths, and weaknesses, which helped develop my self-identity as a future software developer. Using the STAR method gave structure to my answers and helped me communicate more effectively.  
 
-After practicing and recording, I became more aware of how I speak, my pace, and how I present myself. This experience definitely helped me build confidence and gave me a better idea of what to expect in a real interview situation.
+This experience also showed me the importance of preparation and practice. It helped me take more responsibility for how I present myself, which is an important step in developing personal agency.  
+
+Overall, I gained confidence and a better understanding of how to approach real interview situations.
 
 ---
 
 ### 🌐 Reflection on Creating a GitHub Page
 
-Creating my GitHub Page was a new experience for me and one that I found very interesting. Before this project, I mainly saw GitHub as a place to store code, but now I understand how it can be used to present yourself professionally.  
+Creating a GitHub Page was a practical experience that connected directly to real-world industry practices. Before this, I mainly used GitHub for storing code, but this project showed me how it can be used to present myself professionally.  
 
-I learned how to organise my files, manage my repository, and publish my work so that it can be accessed online. Seeing my own portfolio live on GitHub Pages was a great moment because it made the project feel real and practical.  
+I learned how to organise my work, manage files, and deploy a live page. Seeing my portfolio online helped me understand the importance of having a professional digital presence.  
 
-It also made me realise how important it is for developers to have an online presence where they can showcase their skills and projects.
+This also improved my ability to learn independently, as I had to explore new concepts and solve problems along the way. It showed me that learning in ICT is continuous and requires initiative.
 
 ---
 
 ### 🚀 Overall Reflection and Personal Growth
 
-Overall, this project pushed me out of my comfort zone and helped me grow in different ways. I had to learn new tools, improve how I communicate, and think more professionally about how I present myself.  
+Overall, this project helped me grow both technically and personally. It required me to apply theory into practice, use my previous knowledge, and adapt to new tools and challenges.  
 
+I developed greater self-awareness in terms of my strengths and areas for improvement, especially in communication and technical presentation. I also became more confident in my ability to learn new technologies and apply them effectively.  
+
+This experience has helped me understand what it means to be a developing professional in the ICT field. It has strengthened my ability to learn, adapt, and present myself in a more professional and confident way.
 I feel more confident now in both my technical abilities and my communication skills. The project also helped me understand the importance of continuous learning and being able to adapt to new challenges.  
 
 In general, this experience has prepared me better for the ICT industry, especially in terms of interviews, presenting my work, and building a professional profile online.
