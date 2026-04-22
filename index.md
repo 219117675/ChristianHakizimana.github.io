@@ -7,24 +7,23 @@
       <h1 style="margin-bottom:5px;">Christian Hakizimana</h1>
       <p style="margin:0;"><strong>Software Developer | ICT Student</strong></p>
       <p style="margin:0;">📍 Cape Town, South Africa</p>
-      <p style="margin:0;">📞 084 702 3981</p>
       <p style="margin:0;">📧 219117675@mycput.ac.za</p>
+      <p style="margin:0;">
+        🔗 <a href="https://github.com/219117675">GitHub</a>
+      </p>
     </td>
   </tr>
 </table>
 
-# 👋 Christian Hakizimana  
-### Software Developer | ICT Student  
+<hr>
 
-📍 Cape Town, South Africa  
-📞 084 702 3981  
-📧 219117675@mycput.ac.za  
+> 💡 Passionate about building practical software solutions and continuously learning new technologies.
 
 ---
 
 ## 🎯 Career Objective  
-> Motivated and detail-oriented 3rd-year ICT Diploma student at CPUT specializing in Software Development.  
-> Seeking Work-Integrated Learning (WIL) placement to apply my technical skills and grow in a professional ICT environment.  
+Motivated and detail-oriented 3rd-year ICT Diploma student at CPUT specializing in Software Development.  
+Seeking Work-Integrated Learning (WIL) placement to apply my technical skills and grow in a professional ICT environment.  
 
 ---
 
@@ -56,6 +55,20 @@ National Senior Certificate
 
 ---
 
+## 🚀 Projects
+
+### 🧾 Point of Sale System (Java)
+- Developed a desktop-based POS system  
+- Implemented product management and sales processing  
+- Applied object-oriented programming principles  
+
+### 🎟️ Event Management Website
+- Built using HTML, CSS, and JavaScript  
+- Includes event creation and user interaction features  
+- Designed responsive and user-friendly interface  
+
+---
+
 ## 💻 Technical Skills  
 - Java  
 - Python  
@@ -75,35 +88,19 @@ National Senior Certificate
 
 ---
 
-## 📞 References  
+## 🎥 Mock Interview Video  
 
-**Mr Daniel**  
-Propr  
-📧 danielbat@propr.co.za  
-📞 +27 83 875 5366  
-
-**Mr Andrew**  
-Gold Restaurant  
-📧 Andrew@goldrestaurant.co.za  
-📞 +27 21 421 4653  
+<div style="max-width: 700px; margin: auto;">
+  <video controls style="width:100%; border-radius:10px;">
+    <source src="interview.mp4" type="video/mp4">
+  </video>
+</div>
 
 ---
-
-# 🎥 Mock Interview Video  
-
-<!-- REPLACE WITH YOUR VIDEO -->
-
-<video width="100%" controls>
-  <source src="interview.mp4" type="video/mp4">
-</video>
-
----
-
-
 
 ## 📂 GitHub Portfolio  
 
-👉 https://github.com/YOUR-USERNAME  
+👉 https://github.com/219117675  
 
 ---
 
@@ -111,6 +108,7 @@ Gold Restaurant
 
 👉 [Download My CV](Christian_Hakizimana_CV.pdf)
 
+---
 
 ## 🧠 Reflection on Project Presentation III
 
@@ -154,7 +152,6 @@ Overall, this project helped me grow both technically and personally. It require
 
 I developed greater self-awareness in terms of my strengths and areas for improvement, especially in communication and technical presentation. I also became more confident in my ability to learn new technologies and apply them effectively.  
 
-This experience has helped me understand what it means to be a developing professional in the ICT field. It has strengthened my ability to learn, adapt, and present myself in a more professional and confident way.
-I feel more confident now in both my technical abilities and my communication skills. The project also helped me understand the importance of continuous learning and being able to adapt to new challenges.  
+This experience has helped me understand what it means to be a developing professional in the ICT field. It has strengthened my ability to learn, adapt, and present myself in a more professional and confident way.  
 
-In general, this experience has prepared me better for the ICT industry, especially in terms of interviews, presenting my work, and building a professional profile online.
+In general, this project has prepared me better for the ICT industry, especially in terms of interviews, presenting my work, and building a strong professional profile online.
